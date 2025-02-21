@@ -1,0 +1,8 @@
+
+scipy==1.10.0
+Pillow
+easydict
+tqdm
+opencv-python
+ftfy
+regex
